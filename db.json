@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jon Doe",
+      "age": 30,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "age": 25,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Bob Taylor",
+      "age": 45,
+      "active": false
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": 10,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "age": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "age": 2.5,
+      "active": false
+    }
+  ]
+}
